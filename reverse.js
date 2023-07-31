@@ -1,14 +1,9 @@
 // while loop reverse
-/* var num = 10;
+ var num = 10;
 while (num >= 1) {
     console.log(num);
     num--;
-} */
-/* 
-for(var i = 10; i >= 1; i--){
-    console.log(num);
-}
- */
+} 
 
 for (var i = 10; i > 1; i--){
     console.log(i);
